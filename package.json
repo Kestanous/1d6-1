@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "droll": "^0.1.1",
-    "mathjs": "^2.7.0",
-    "safe-eval": "^0.2.0"
+    "mathjs": "^2.7.0"
   }
 }
