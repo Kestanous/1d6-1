@@ -1,0 +1,23 @@
+<head>
+  <title>better20</title>
+</head>
+
+<body>
+  <h1>1d6 + 1</h1>
+
+  {{> hello}}
+</body>
+
+<template name="hello">
+  <label>a</label>
+  <input id='a' value="1">
+  <label>b</label>
+  <input id='b' value="6">
+  <label>c</label>
+  <input id='c' value="1">
+
+
+  <textarea class='formula'>d(a,b) + c</textarea>
+  <button>Roll</button>
+  <p>You've rolled a {{counter}}</p>
+</template>

@@ -1,0 +1,17 @@
+{
+  "name": "better20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "better20.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "droll": "^0.1.1",
+    "mathjs": "^2.7.0",
+    "safe-eval": "^0.2.0"
+  }
+}
